@@ -7,7 +7,7 @@ import static net.mindview.util.Print.*;
  * 逻辑操作符演示
  * @ClassName:Bool
  * @Description:逻辑操作符演示
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date:2016年7月27日 上午12:38:44
  */
 public class Bool {
