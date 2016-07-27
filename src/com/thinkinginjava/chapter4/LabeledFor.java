@@ -41,6 +41,28 @@ public class LabeledFor {
 				}
 			}
 		}
+		
+/*		½á¹û£º
+			i=0
+			continue inner k
+			i=1
+			continue inner k
+			i=2
+			continue
+			i=3
+			break
+			i=4
+			continue inner k
+			i=5
+			continue inner k
+			i=6
+			continue inner k
+			i=7
+			continue outer
+			i=8
+			break outer
+*/
+
 
 	}
 
