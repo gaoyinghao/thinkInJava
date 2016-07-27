@@ -30,7 +30,7 @@ public class LabeledFor {
 					continue outer;
 				}
 				if(i==8){
-					print("continue break");
+					print("break outer");
 					break outer;
 				}
 				for(int k=0;k<5;k++){
