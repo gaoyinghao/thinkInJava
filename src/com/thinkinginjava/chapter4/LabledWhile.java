@@ -35,6 +35,23 @@ public class LabledWhile {
 				}
 			}
 		}
+	/*	½á¹û£º
+			Outer while loop
+			i=1
+			continue
+			i=2
+			i=3
+			continue outer
+			Outer while loop
+			i=4
+			i=5
+			break
+			Outer while loop
+			i=6
+			i=7
+			break outer
+*/
+
 	}
 
 }
