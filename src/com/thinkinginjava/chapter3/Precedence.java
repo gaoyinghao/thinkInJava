@@ -5,7 +5,7 @@ package com.thinkinginjava.chapter3;
  * 
  * @ClassName:Precedence
  * @Description:操作符的优先级
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date:2016年7月25日 上午12:00:16
  */
 public class Precedence {

@@ -4,7 +4,7 @@ package com.thinkinginjava.chapter4;
  * for循环演示
  * @ClassName: ListCharacters
  * @Description: for循环演示
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date 2016年7月27日 上午10:21:28
  */
 public class ListCharacters {

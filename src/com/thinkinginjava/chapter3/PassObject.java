@@ -10,7 +10,7 @@ class Letter {
  * 方法调用中的别名问题
  * @ClassName:PassObject
  * @Description:方法调用中的别名问题
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date:2016年7月27日 上午12:32:48
  */
 public class PassObject {

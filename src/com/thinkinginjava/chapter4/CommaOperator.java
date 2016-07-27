@@ -4,7 +4,7 @@ package com.thinkinginjava.chapter4;
  * 逗号操作符演示
  * @ClassName: CommaOperator
  * @Description: 逗号操作符演示
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date 2016年7月27日 上午10:44:53
  */
 public class CommaOperator {

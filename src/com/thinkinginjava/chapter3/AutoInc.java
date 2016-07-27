@@ -6,7 +6,7 @@ import static net.mindview.util.Print.*;
  * 自动递增和递减
  * @ClassName:AutoInc
  * @Description:自动递增和递减
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date:2016年7月27日 上午12:35:52
  */
 public class AutoInc {

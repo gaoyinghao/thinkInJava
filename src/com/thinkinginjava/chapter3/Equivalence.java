@@ -8,7 +8,7 @@ class Value {
  * 测试对象的等价性
  * @ClassName:Equivalence
  * @Description:测试对象的等价性
- * @author gaoyinghaosx@163.com
+ * @author <a href="mailto:gaoyinghaosx@163.com" target="_blank">gaoyinghaosx@163.com</a>
  * @date:2016年7月27日 上午12:37:24
  */
 public class Equivalence {
