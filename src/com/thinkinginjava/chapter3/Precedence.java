@@ -2,7 +2,6 @@ package com.thinkinginjava.chapter3;
 
 /**
  * 操作符的优先级
- * 
  * @ClassName:Precedence
  * @Description:操作符的优先级
  * @author gaoyinghaosx@163.com
